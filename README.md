@@ -1,5 +1,3 @@
-=
-
 # Two-Stage Miller-Compensated Operational Amplifier Design
 
 ## Project Description
