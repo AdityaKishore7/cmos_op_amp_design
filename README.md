@@ -13,3 +13,4 @@ This project involves the design and simulation of a two-stage Miller-compensate
 - **Gain-Bandwidth Product:** Target a gain-bandwidth product of 50 MHz.
 - **Transistor Dimensions:** Use reasonable lengths and widths for NMOS transistors and report these dimensions.
 
+![image](https://github.com/user-attachments/assets/bc36c410-b9b8-462b-811c-99b3b7a33bbe)
